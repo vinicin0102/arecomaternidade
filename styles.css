@@ -123,7 +123,7 @@ section { padding: 6rem 8%; position: relative; }
 /* ── Hero ── */
 .hero {
   min-height: 100vh; display: flex; align-items: center; gap: 4rem;
-  padding-top: 7rem; position: relative; overflow: hidden;
+  padding-top: 22rem; position: relative; overflow: hidden;
 }
 .hero-content { flex: 1; max-width: 620px; }
 .hero-content h1 { font-size: 3.4rem; line-height: 1.15; margin-bottom: 1.5rem; }
